@@ -6,6 +6,8 @@ Modules that have the following properties will be published here.
 
 • fulfill a simple task (ideally one file packages wit about 50-100 lines). 
 
+• are usable both in a web and node context.
+
 <!--
 
 **Here are some ideas to get you started:**
